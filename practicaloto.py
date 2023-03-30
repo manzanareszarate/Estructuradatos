@@ -1,0 +1,13 @@
+lotto = []
+numero1 =input ("Digite el primer Número: ")
+lotto.append(numero1)
+numero2 =input ("Digite el segundo Número: ")
+lotto.append(numero2)
+numero3 =input ("Digite el tercer Número: ")
+lotto.append(numero3)
+numero4 =input ("Digite el cuarto Número: ")
+lotto.append(numero4)
+numero5 =input ("Digite el quinto Número: ")
+lotto.append(numero5)
+lotto.sort()
+print(lotto)
